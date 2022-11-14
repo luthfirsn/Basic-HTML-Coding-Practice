@@ -1,0 +1,80 @@
+.test {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 710px;
+    height: 280px;
+    padding: 60px;
+
+  }
+.test_kanan {
+    flex: 33%;
+}
+.test_kiri {
+    flex: 33%;
+    padding: 10px;
+}
+.test_tengah {
+    flex: 50%;
+    border-radius: 29px;
+    margin: 17px;
+    padding: 10px;
+}
+.hct {
+    background-color: pink;
+    width: 150px;
+    margin-right: 1%;
+    margin-right: 1%;
+    border-radius: 29px;
+}
+
+#gimana {
+    border-style: none;
+    background-color: rgba(243, 242, 242, 0.904);
+    padding: 15px;
+}  
+p {
+    width: 30px;
+    height: 30px;
+    margin: 18px auto;
+    border-radius: 5px;
+}
+.ftrcl {
+    border-style: none;
+    background-color: rgba(243, 242, 242, 0.904);
+    padding: 5px;
+}
+.ftrcl2 {
+    border-style: none;
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+}
+.testol {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+}
+.testo {
+    justify-content: space-evenly;
+}
+.barang {
+    margin-right: 50%;
+}
+.harga{
+    margin-right: 55%;
+
+}
+.about{
+    margin-right: 70%;
+}
+.hei{
+    background-color:rgb(231, 121, 121);
+    border-radius: 5px;
+}
+.apa{
+    display : flex;
+    justify-content: space-between;
+    padding: 0.5rem;
+  
+}
