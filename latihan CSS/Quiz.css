@@ -1,0 +1,86 @@
+/* body {
+    font-family: ;
+} */
+
+
+/* p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    font
+} */
+
+#background{
+   background-color:  #cfcfcf;
+}
+
+/* table{
+    border: 1px solid #cfcfcf;
+} */
+.ret {
+    padding-top: 10px;
+    background-color: rgba(207, 199, 199, 0.87);
+    padding: 20px;
+    padding-left: 30px;
+    width: 1267px;
+
+
+}
+p {
+    width: 50px;
+    height: 50px;
+    margin: 29px auto;
+    border-radius: 7px;
+}
+
+.hnct {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 400px;
+    height: 50px;
+    padding: 10px;
+    
+}
+.test-kiri {
+    padding: 15px;
+    margin-left: 360px;
+    
+   
+   
+}
+.test-tengah {
+    flex: 30%;
+    border-radius: 29px;
+    border: 1px solid rgb(27, 26, 26);
+    margin: 25px;
+    padding-left: 50px;
+    padding-right: 60px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.test-kanan {
+    flex: 30%;
+    width: 400px;
+    height: 10px;
+    padding-top: 40px;
+    margin-bottom: 1px;
+}
+.ter{
+    max-height: 30px;
+    background-color: darksalmon;
+    border-radius: 5px;
+    border: 5%;
+    width: 370px;
+}
+.fed{
+    border-style: none;
+    background-color: rgba(207, 199, 199, 0.87);
+    padding: 20px;
+    width: 1277px;
+}
+.pad{
+    padding-top: 50px;
+}
+.p{
+    padding-bottom: 50px;
+}
